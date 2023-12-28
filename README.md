@@ -1,4 +1,4 @@
 # Code-while-learing-C
-The code made by me during learning C langjuage ..
+The code made by me during learning C language ..
 <br>
-Author - Prashant Choudhary
+By - Prashant Choudhary
